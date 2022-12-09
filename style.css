@@ -1,17 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 
-html, body {
+body, div {
     height: 100%;
 }
 
-html {
+body {
     display: table;
     margin: auto;
-}
-
-body {
-    display: table-cell;
-    vertical-align: middle;
-    width: 1016px;
 }
