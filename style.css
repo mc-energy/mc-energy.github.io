@@ -10,4 +10,5 @@ html {
 body {
     display: table-cell;
     vertical-align: middle;
+    width: 1016px;
 }
